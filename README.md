@@ -6,4 +6,3 @@
 3.ชุดข้อมูลที่ใช้เป็นชุดข้อมูลจาก Swedish Statistics (https://www.scb.se/en/)
 
 4.ซอฟท์แวร์ที่ใช้คือ Microsoft Power BI
-  
