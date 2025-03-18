@@ -16,6 +16,6 @@
 
 ## 4. ผลลัพธ์
 
-      4.1 ไฟล์สำหรับการวิเคราะห์สามารถดาวน์โหลดได้ใน Github
+      4.1 ไฟล์สำหรับการวิเคราะห์สามารถดาวน์โหลดได้ใน Github ไฟล์ชื่อว่า Swedish Food Sales Project.pbix
 
 ![Swedish Food Sales Dashboard](https://github.com/user-attachments/assets/e0374042-203f-49bf-a00c-124d09558b55)
