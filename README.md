@@ -17,3 +17,4 @@
 ## 4. ผลลัพธ์
 
       4.1 ไฟล์สำหรับการวิเคราะห์สามารถดาวน์โหลดได้ใน Github
+![Alt text] (images/Swedish Food Sales Dashboard.jpg)
